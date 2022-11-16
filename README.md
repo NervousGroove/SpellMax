@@ -10,20 +10,16 @@ Construct 2/3, NunuStudio, PlayCanvas, SpellSide, and Cocos3D.
 # 🍕 How to use
 To use SpellMax, add the following code to a JavaScript file that is added to your game created with one of the supported engines:
 ```html
-        // Get HTML head element
         var head = document.getElementsByTagName('HEAD')[0];
  
-        // Create new link Element
         var link = document.createElement('link');
  
-        // set the attributes for link element
         link.rel = 'stylesheet';
      
         link.type = 'text/css';
      
         link.href = 'https://raw.githubusercontent.com/NervousGroove/SpellMax/main/main.css';
  
-        // Append link element to HTML head
         head.appendChild(link);
 ```
 And ready! Your game will already have one of the best graphics in the world! It's easy and fast :)
