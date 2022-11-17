@@ -26,6 +26,10 @@ And ready! Your game will already have one of the best graphics in the world! It
 
 *YOU DO NOT NEED TO DOWNLOAD ANY FILE FROM THE REPOSITORY TO ADD SPELLMAX INTO YOUR GAME, AND ANY OTHER SITE THAT TEACHES OTHERWISE IS FAKE*
 
+# 🎮 How to use on Playcanvas
+
+In PlayCanvas the method is different. You must copy the CSS code below and add it to a CSS file linked to your PlayCanvas project/game:
+
 ![alt text](https://github.com/NervousGroove/SpellMax/blob/main/SpellMax.png)
 
 
