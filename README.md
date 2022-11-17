@@ -30,6 +30,64 @@ And ready! Your game will already have one of the best graphics in the world! It
 
 In PlayCanvas the method is different. You must copy the CSS code below and add it to a CSS file linked to your PlayCanvas project/game:
 
+```html
+/* LICENSE: Licensed with CC-NC-ND */
+/* Author: SwankyNoob */
+/* Version: 4.1 */
+
+img {
+filter: brightness(1.25) contrast(1.24) saturate(1.3);
+image-rendering: optimizeQuality;
+-webkit-transform: scale(0.999);
+transform: scale(0.999);
+position: absolute; 
+top: 0; 
+left: 0;
+image-rendering: high-quality;
+text-rendering: auto;
+shape-rendering: auto;
+}
+
+video {
+filter: brightness(1.25) contrast(1.24) saturate(1.3);
+image-rendering: optimizeQuality;
+-webkit-transform: scale(0.999);
+transform: scale(0.999);
+position: absolute; 
+top: 0; 
+left: 0;
+image-rendering: high-quality;
+text-rendering: auto;
+shape-rendering: auto;
+}
+
+.CL3D {
+filter: brightness(1.25) contrast(1.24) saturate(1.3);
+image-rendering: optimizeQuality;
+-webkit-transform: scale(0.999);
+transform: scale(0.999);
+position: absolute; 
+top: 0; 
+left: 0;
+image-rendering: high-quality;
+text-rendering: auto;
+shape-rendering: auto;
+}
+
+div {
+filter: brightness(1.25) contrast(1.24) saturate(1.3);
+image-rendering: optimizeQuality;
+-webkit-transform: scale(0.999);
+transform: scale(0.999);
+position: absolute; 
+top: 0; 
+left: 0;
+image-rendering: high-quality;
+text-rendering: auto;
+shape-rendering: auto;
+}
+```
+
 ![alt text](https://github.com/NervousGroove/SpellMax/blob/main/SpellMax.png)
 
 
